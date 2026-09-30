@@ -8,7 +8,11 @@ Choose Cat or Lynx, tap a numbered section, and select a photo. Move, zoom, or r
 
 Download the finished collage as a one-page A4 PDF at 300 dpi. Print on A4 at **Actual size / 100%**. Empty sections print white; section numbers and editor controls do not appear in the PDF.
 
-The responsive interface supports phones and computers. On phones, shape selection and crop controls are below the canvas. Pinch to zoom an added photo.
+The responsive interface supports phones and computers. On phones, shape selection and crop controls are below the canvas.
+
+Use the **Whole head + / − / Fit** controls to enlarge the canvas view without changing your photos or print size. Scroll inside the enlarged view to reach different parts of the head. Phone swipes scroll normally, and a regular pinch zooms the browser page.
+
+To reposition a photo on a phone, select its section and enable **Move photo** above the canvas. Drag or pinch the selected photo, then select **Done moving** to return to normal scrolling. **Photo zoom** and **Rotate** adjust only the selected photo.
 
 ## Privacy and saving
 
